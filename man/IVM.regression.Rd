@@ -4,12 +4,10 @@
 \alias{IVM.regression}
 \title{Perform IVM selection for sparse GP regression}
 \usage{
-IVM.regression(predictors, responses, activeSetSize, variance, kernel.function)
+IVM.regression(predictors, activeSetSize, variance, kernel.function)
 }
 \arguments{
 \item{predictors}{a numeric matrix of predictors (X)}
-
-\item{responses}{a numeric vector of responses (Y)}
 
 \item{activeSetSize}{the number of points to select for the active set}
 
