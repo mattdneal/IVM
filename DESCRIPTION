@@ -1,0 +1,14 @@
+Package: IVM
+Type: Package
+Title: Informative Vector Machine for Sparse Gaussian Processes
+Version: 0.1.0
+Author: Matthew Neal
+Maintainer: Matthew Neal <matt@mattdneal.com>
+Description: Implements Informative Vector Machines (IVM) as described 
+    by Lawrence and others in "Fast sparse Gaussian process methods: 
+    The informative vector machine." Advances in neural information 
+    processing systems (2003): 625-632.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
